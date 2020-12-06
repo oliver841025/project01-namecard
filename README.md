@@ -1,2 +1,2 @@
 # namecard
-first project i made
+first project i made and used html, css
