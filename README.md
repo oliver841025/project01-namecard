@@ -1,2 +1,2 @@
 # namecard
-first project i made and used html, css
+first project i made and used html(pug), css(sass)
